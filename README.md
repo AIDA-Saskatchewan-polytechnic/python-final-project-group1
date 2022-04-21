@@ -20,11 +20,13 @@ Steps:
 
 3)	Use pandas to create a dataframe that aggregates and sums both confirmed cases and deaths on a global level
 4)	Research a stock for each below that reflects the following industries (it will be used in the next step):
-    a)	Overall American Market
-    b)	Overall Canadian Market
-    c)	Travel sector
-    d)	The Real Estate sector
-    e)	Precious metals (Gold, Silver, Platinum, etc)
+     - Overall American Market
+     - Overall Canadian Market
+     - Travel sector
+     - The Real Estate sector
+     - Precious metals (Gold, Silver, Platinum, etc)
+
+
 5)	Use AlphaVantage (the stock API used earlier in the course) to get the daily high and low prices for your selected stocks
 6)	Append that info to the data frame created in step 3)
 7)	Create an appropriate graph detailing your info - explain why you chose the graphs you did, use matplotlib
